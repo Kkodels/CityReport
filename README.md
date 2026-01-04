@@ -120,6 +120,11 @@ CityReport membantu admin untuk:
 </p>
 
 ### 5. Buat Laporan Baru (Fitur Geotag)
+<p align="center">
+  <img src="documentation/Screenshot_20260104-222635.jpg" width="200" alt="Upload Foto"/>
+  <img src="documentation/Screenshot_20260104-222702.jpg" width="200" alt="Input Detail Laporan"/>
+  <img src="documentation/Screenshot_20260104-222704.jpg" width="200" alt="Konfirmasi & Submit"/>
+</p>
 
 <p align="center">
   <img src="documentation/Screenshot_20260104-220304.jpg" width="200" alt="Form Buat Laporan"/>
@@ -127,11 +132,7 @@ CityReport membantu admin untuk:
   <img src="documentation/Screenshot_20260104-125339.jpg" width="200" alt="Set Geotag"/>
 </p>
 
-<p align="center">
-  <img src="documentation/Screenshot_20260104-222635.jpg" width="200" alt="Upload Foto"/>
-  <img src="documentation/Screenshot_20260104-222702.jpg" width="200" alt="Input Detail Laporan"/>
-  <img src="documentation/Screenshot_20260104-222704.jpg" width="200" alt="Konfirmasi & Submit"/>
-</p>
+
 
 ### 6. Riwayat Laporan
 
@@ -148,8 +149,7 @@ CityReport membantu admin untuk:
 ### 8. Profil Pengguna
 
 <p align="center">
-  <img src="documentation/Screenshot_20260103-212742.jpg" width="200" alt="Halaman Profil"/>
-  <img src="documentation/Screenshot_20260104-130249.jpg" width="200" alt="Edit Profil"/>
+  <img src="documentation/Screenshot_20260104-130249.jpg" width="200" alt="Profil"/>
 </p>
 
 ### 9. Panel Admin
