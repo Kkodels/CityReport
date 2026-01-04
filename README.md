@@ -293,7 +293,7 @@ cityreport/
 ---
 
 <p align="center">
-  Made with ❤️ for a better city
+  Made with ❤️and🍀 for a better city
 </p>
 
 <p align="center">
