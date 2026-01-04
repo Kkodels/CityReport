@@ -297,5 +297,5 @@ cityreport/
 </p>
 
 <p align="center">
-  <b>CityReport v1.67</b>
+  <b>CityReport v1.6.7</b>
 </p>
