@@ -91,115 +91,79 @@ CityReport membantu admin untuk:
 
 ## 📸 Screenshot Aplikasi
 
-<<<<<<< HEAD
-### 1. Splash Screen & Onboarding
-=======
-### 1. Splash Screen & Login
->>>>>>> 6d773e763a53d518a5ff0253ef81d669b3a3afb5
+### 1. Splash Screen
 
 <p align="center">
-  <img src="documentation/Screenshot_20251230-212702.jpg" width="200" alt="Splash Screen"/>
+  <img src="documentation/Screenshot_20260104-124653.jpg" width="200" alt="Splash Screen"/>
 </p>
 
 ### 2. Login & Registrasi
 
 <p align="center">
-  <img src="documentation/Screenshot_20260103-212742.jpg" width="200" alt="Login Screen"/>
+  <img src="documentation/Screenshot_20260104-124919.jpg" width="200" alt="Login"/>
+  <img src="documentation/Screenshot_20260104-124923.jpg" width="200" alt="Register"/>
 </p>
 
-<<<<<<< HEAD
-### 3. Halaman Utama (Home User)
-=======
-### 2. Halaman Utama (Home)
->>>>>>> 6d773e763a53d518a5ff0253ef81d669b3a3afb5
+### 3. Halaman Beranda (Home)
 
 <p align="center">
-  <img src="documentation/Screenshot_20260104-124653.jpg" width="200" alt="Home Screen"/>
-  <img src="documentation/Screenshot_20260104-124919.jpg" width="200" alt="Home dengan Laporan"/>
-  <img src="documentation/Screenshot_20260104-124923.jpg" width="200" alt="Home Scroll"/>
+  <img src="documentation/Screenshot_20260104-220022.jpg" width="200" alt="Home Screen"/>
 </p>
 
-<<<<<<< HEAD
-### 4. Daftar Laporan & Detail
+### 4. Daftar Laporan
 
 <p align="center">
-  <img src="documentation/Screenshot_20260104-125327.jpg" width="200" alt="Daftar Semua Laporan"/>
-  <img src="documentation/Screenshot_20260104-125339.jpg" width="200" alt="Detail Laporan"/>
-  <img src="documentation/Screenshot_20260104-220022.jpg" width="200" alt="Detail dengan Voting"/>
+  <img src="documentation/Screenshot_20251230-212702.jpg" width="200" alt="Daftar Laporan"/>
+  <img src="documentation/Screenshot_20260104-130323.jpg" width="200" alt="Laporan Screen 1"/>
+  <img src="documentation/Screenshot_20260104-130335.jpg" width="200" alt="Laporan Screen 2"/>
+  <img src="documentation/Screenshot_20260104-130752.jpg" width="200" alt="Laporan Screen 3"/>
 </p>
 
 ### 5. Buat Laporan Baru (Fitur Geotag)
 
 <p align="center">
-  <img src="documentation/Screenshot_20260104-130226.jpg" width="200" alt="Form Buat Laporan"/>
-  <img src="documentation/Screenshot_20260104-130240.jpg" width="200" alt="Pilih Lokasi GPS"/>
-  <img src="documentation/Screenshot_20260104-130249.jpg" width="200" alt="Preview Laporan"/>
-</p>
-
-### 6. Peta Laporan Terdekat (Geotag Map)
-
-<p align="center">
-  <img src="documentation/Screenshot_20260104-130323.jpg" width="200" alt="Peta Sebaran Laporan"/>
-  <img src="documentation/Screenshot_20260104-130335.jpg" width="200" alt="Detail Marker di Peta"/>
-</p>
-
-### 7. Profil Pengguna
-
-<p align="center">
-  <img src="documentation/Screenshot_20260104-130458.jpg" width="200" alt="Halaman Profil"/>
-  <img src="documentation/Screenshot_20260104-130500.jpg" width="200" alt="Edit Profil"/>
-  <img src="documentation/Screenshot_20260104-130506.jpg" width="200" alt="Statistik User"/>
-  <img src="documentation/Screenshot_20260104-220304.jpg" width="200" alt="Dark Mode"/>
-</p>
-
-### 8. Panel Admin (Dashboard & Analitik Prioritas)
-
-<p align="center">
-  <img src="documentation/Screenshot_20260104-130514.jpg" width="200" alt="Admin Dashboard"/>
-  <img src="documentation/Screenshot_20260104-130530.jpg" width="200" alt="Daftar Laporan Admin"/>
+  <img src="documentation/Screenshot_20260104-220304.jpg" width="200" alt="Form Buat Laporan"/>
+  <img src="documentation/Screenshot_20260104-125327.jpg" width="200" alt="Pilih Kategori & Foto"/>
+  <img src="documentation/Screenshot_20260104-125339.jpg" width="200" alt="Set Geotag"/>
 </p>
 
 <p align="center">
-  <img src="documentation/Screenshot_20260104-130702.jpg" width="200" alt="Update Status Laporan"/>
-=======
-### 3. Daftar Laporan & Detail
-
-<p align="center">
-  <img src="documentation/Screenshot_20260104-125327.jpg" width="200" alt="Daftar Laporan"/>
-  <img src="documentation/Screenshot_20260104-125339.jpg" width="200" alt="Detail Laporan"/>
+  <img src="documentation/Screenshot_20260104-222635.jpg" width="200" alt="Upload Foto"/>
+  <img src="documentation/Screenshot_20260104-222702.jpg" width="200" alt="Input Detail Laporan"/>
+  <img src="documentation/Screenshot_20260104-222704.jpg" width="200" alt="Konfirmasi & Submit"/>
 </p>
 
-### 4. Buat Laporan Baru (dengan Geotag)
+### 6. Riwayat Laporan
 
 <p align="center">
-  <img src="documentation/Screenshot_20260104-130226.jpg" width="200" alt="Form Laporan"/>
-  <img src="documentation/Screenshot_20260104-130240.jpg" width="200" alt="Pilih Lokasi GPS"/>
-  <img src="documentation/Screenshot_20260104-130249.jpg" width="200" alt="Konfirmasi Laporan"/>
+  <img src="documentation/Screenshot_20260104-130226.jpg" width="200" alt="Riwayat Laporan User"/>
 </p>
 
-### 5. Peta Laporan Terdekat (Geotag Map)
+### 7. Peta Laporan Terdekat (Nearby)
 
 <p align="center">
-  <img src="documentation/Screenshot_20260104-130323.jpg" width="200" alt="Peta Laporan"/>
-  <img src="documentation/Screenshot_20260104-130335.jpg" width="200" alt="Detail di Peta"/>
+  <img src="documentation/Screenshot_20260104-130240.jpg" width="200" alt="Peta Nearby"/>
 </p>
 
-### 6. Profil Pengguna & Statistik
+### 8. Profil Pengguna
 
 <p align="center">
-  <img src="documentation/Screenshot_20260104-130458.jpg" width="200" alt="Profil User"/>
-  <img src="documentation/Screenshot_20260104-130500.jpg" width="200" alt="Edit Profil"/>
-  <img src="documentation/Screenshot_20260104-130506.jpg" width="200" alt="Statistik Laporan"/>
+  <img src="documentation/Screenshot_20260103-212742.jpg" width="200" alt="Halaman Profil"/>
+  <img src="documentation/Screenshot_20260104-130249.jpg" width="200" alt="Edit Profil"/>
 </p>
 
-### 7. Panel Admin (Dashboard & Analitik)
+### 9. Panel Admin
 
 <p align="center">
-  <img src="documentation/Screenshot_20260104-130514.jpg" width="200" alt="Admin Dashboard"/>
-  <img src="documentation/Screenshot_20260104-130530.jpg" width="200" alt="Kelola Laporan"/>
-  <img src="documentation/Screenshot_20260104-130702.jpg" width="200" alt="Update Status"/>
->>>>>>> 6d773e763a53d518a5ff0253ef81d669b3a3afb5
-  <img src="documentation/Screenshot_20260104-130752.jpg" width="200" alt="Analitik Prioritas"/>
+  <img src="documentation/Screenshot_20260104-130458.jpg" width="200" alt="Home Admin 1"/>
+  <img src="documentation/Screenshot_20260104-130500.jpg" width="200" alt="Home Admin 2"/>
+  <img src="documentation/Screenshot_20260104-130506.jpg" width="200" alt="Semua Laporan Admin"/>
+</p>
+
+<p align="center">
+  <img src="documentation/Screenshot_20260104-130514.jpg" width="200" alt="Profil Admin"/>
+  <img src="documentation/Screenshot_20260104-130530.jpg" width="200" alt="Detail Laporan Admin 1"/>
+  <img src="documentation/Screenshot_20260104-130702.jpg" width="200" alt="Detail Laporan Admin 2"/>
 </p>
 
 ---
