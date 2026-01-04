@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green.svg"/>
   <img src="https://img.shields.io/badge/API-24%2B-blue.svg"/>
-  <img src="https://img.shields.io/badge/Version-1.67-orange.svg"/>
+  <img src="https://img.shields.io/badge/Version-1.6.7-orange.svg"/>
   <img src="https://img.shields.io/badge/Kotlin-1.9-purple.svg"/>
 </p>
 
